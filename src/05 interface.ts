@@ -43,11 +43,6 @@ console.log(adeel);
 
 
 
-
-
-
-
-
 // * * * INTERFACE IMPLEMENTATION IN CLASSES * * *
 
 // interface Person {
